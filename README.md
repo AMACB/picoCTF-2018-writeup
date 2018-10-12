@@ -17,111 +17,114 @@ In this case, we will write the flag as such:
 
 ## Problem List
 
-- [x] [Forensics Warmup 1](problems/forensics-warmup-1/forensics-warmup-1.md) (50)  
-- [ ] Forensics Warmup 2 (50)  
-- [ ] General Warmup 1 (50)  
-- [ ] General Warmup 2 (50)  
-- [ ] General Warmup 3 (50)  
-- [ ] Resources (50)  
-- [ ] Reversing Warmup 1 (50)  
-- [ ] Reversing Warmup 2 (50)  
-- [ ] Crypto Warmup 1 (75)  
-- [ ] Crypto Warmup 2 (75)  
-- [ ] grep 1 (75)  
-- [ ] net cat (75)  
-- [ ] HEEEEEEERE'S Johnny! (100)  
-- [ ] strings (100)  
-- [ ] pipe (110)  
-- [ ] Inspect Me (125)  
-- [ ] grep 2 (125)  
-- [ ] Aca-Shell-A (150)  
-- [ ] Client Side is Still Bad (150)  
-- [ ] Desrouleaux (150)  
-- [ ] Logon (150)  
-- [ ] Reading Between the Eyes (150)  
-- [ ] Recovering From the Snap (150)  
-- [ ] admin panel (150)  
-- [ ] assembly-0 (150)  
-- [ ] buffer overflow 0 (150)  
-- [ ] caesar cipher 1 (150)  
-- [ ] environ (150)  
-- [ ] hertz (150)  
-- [ ] hex editor (150)  
-- [ ] ssh-keyz (150)  
-- [ ] Irish Name Repo (200)  
-- [ ] Mr. Robots (200)  
-- [ ] No Login (200)  
-- [ ] Secret Agent (200)  
-- [ ] Truly an Artist (200)  
-- [ ] assembly-1 (200)  
-- [ ] be-quick-or-be-dead-1 (200)  
-- [ ] blaise's cipher (200)  
-- [ ] buffer overflow 1 (200)  
-- [ ] hertz 2 (200)  
-- [ ] leak-me (200)  
-- [ ] now you don't (200)  
-- [ ] quackme (200)  
-- [ ] shellcode (200)  
-- [ ] what base is this? (200)  
-- [ ] you can't see me (200)  
-- [ ] Buttons (250)  
-- [ ] Ext Super Magic (250)  
-- [ ] Lying Out (250)  
-- [ ] Safe RSA (250)  
-- [ ] The Vault (250)  
-- [ ] What's My Name? (250)  
-- [ ] absolutely relative (250)  
-- [ ] assembly-2 (250)  
-- [ ] buffer overflow 2 (250)  
-- [ ] caesar cipher 2 (250)  
-- [ ] got-2-learn-libc (250)  
-- [ ] rsa-madlibs (250)  
-- [ ] be-quick-or-be-dead-2 (275)  
-- [ ] in out error (275)  
-- [ ] Artisinal Handcrafted HTTP 3 (300)  
-- [ ] SpyFi (300)  
-- [ ] echooo (300)  
-- [ ] learn gdb (300)  
-- [ ] Flaskcards (350)  
-- [ ] Super Safe RSA (350)  
-- [ ] authenticate (350)  
-- [ ] be-quick-or-be-dead-3 (350)  
-- [ ] core (350)  
-- [ ] got-shell? (350)  
-- [ ] quackme up (350)  
-- [ ] rop chain (350)  
-- [ ] roulette (350)  
-- [ ] Malware Shops (400)  
-- [ ] Radix's Terminal (400)  
-- [ ] assembly-3 (400)  
-- [ ] eleCTRic (400)  
-- [ ] fancy-alive-monitoring (400)  
-- [ ] keygen-me-1 (400)  
-- [ ] store (400)  
-- [ ] Super Safe RSA 2 (425)  
-- [ ] Magic Padding Oracle (450)  
-- [ ] buffer overflow 3 (450)  
-- [ ] Secure Logon (500)  
-- [ ] echo back (500)  
-- [ ] script me (500)  
-- [ ] LoadSomeBits (550)  
-- [ ] are you root? (550)  
-- [ ] assembly-4 (550)  
-- [ ] gps (550)  
-- [ ] Flaskcards Skeleton Key (600)  
-- [ ] Help Me Reset 2 (600)  
-- [ ] Super Safe RSA 3 (600)  
-- [ ] special-pw (600)  
-- [ ] A Simple Question (650)  
-- [ ] can-you-gets-me (650)  
-- [ ] James Brahm Returns (700)  
-- [ ] freecalc (750)  
-- [ ] keygen-me-2 (750)  
-- [ ] LambDash 3 (800)  
-- [ ] circuit123 (800)  
-- [ ] sword (800)  
-- [ ] Contacts (850)  
-- [ ] Cake (900)  
-- [ ] Dog or Frog (900)  
-- [ ] Flaskcards and Freedom (900)
+Name | Points | Status
+--- | --- | ---
+[Forensics Warmup 1](problems/forensics-warmup-1/forensics-warmup-1.md) | 50 | Complete
+Forensics Warmup 2 | 50 | Pending
+General Warmup 1 | 50 | Pending
+General Warmup 2 | 50 | Pending
+General Warmup 3 | 50 | Pending
+Resources | 50 | Pending
+Reversing Warmup 1 | 50 | Pending
+Reversing Warmup 2 | 50 | Pending
+Crypto Warmup 1 | 75 | Pending
+Crypto Warmup 2 | 75 | Pending
+grep 1 | 75 | Pending
+net cat | 75 | Pending
+HEEEEEEERE'S Johnny! | 100 | Pending
+strings | 100 | Pending
+pipe | 110 | Pending
+Inspect Me | 125 | Pending
+grep 2 | 125 | Pending
+Aca-Shell-A | 150 | Pending
+Client Side is Still Bad | 150 | Pending
+Desrouleaux | 150 | Pending
+Logon | 150 | Pending
+Reading Between the Eyes | 150 | Pending
+Recovering From the Snap | 150 | Pending
+admin panel | 150 | Pending
+assembly-0 | 150 | Pending
+buffer overflow 0 | 150 | Pending
+caesar cipher 1 | 150 | Pending
+environ | 150 | Pending
+hertz | 150 | Pending
+hex editor | 150 | Pending
+ssh-keyz | 150 | Pending
+Irish Name Repo | 200 | Pending
+Mr. Robots | 200 | Pending
+No Login | 200 | Pending
+Secret Agent | 200 | Pending
+Truly an Artist | 200 | Pending
+assembly-1 | 200 | Pending
+be-quick-or-be-dead-1 | 200 | Pending
+blaise's cipher | 200 | Pending
+buffer overflow 1 | 200 | Pending
+hertz 2 | 200 | Pending
+leak-me | 200 | Pending
+now you don't | 200 | Pending
+quackme | 200 | Pending
+shellcode | 200 | Pending
+what base is this? | 200 | Pending
+you can't see me | 200 | Pending
+Buttons | 250 | Pending
+Ext Super Magic | 250 | Pending
+Lying Out | 250 | Pending
+Safe RSA | 250 | Pending
+The Vault | 250 | Pending
+What's My Name? | 250 | Pending
+absolutely relative | 250 | Pending
+assembly-2 | 250 | Pending
+buffer overflow 2 | 250 | Pending
+caesar cipher 2 | 250 | Pending
+got-2-learn-libc | 250 | Pending
+rsa-madlibs | 250 | Pending
+be-quick-or-be-dead-2 | 275 | Pending
+in out error | 275 | Pending
+Artisinal Handcrafted HTTP 3 | 300 | Pending
+SpyFi | 300 | Pending
+echooo | 300 | Pending
+learn gdb | 300 | Pending
+Flaskcards | 350 | Pending
+Super Safe RSA | 350 | Pending
+authenticate | 350 | Pending
+be-quick-or-be-dead-3 | 350 | Pending
+core | 350 | Pending
+got-shell? | 350 | Pending
+quackme up | 350 | Pending
+rop chain | 350 | Pending
+roulette | 350 | Pending
+Malware Shops | 400 | Pending
+Radix's Terminal | 400 | Pending
+assembly-3 | 400 | Pending
+eleCTRic | 400 | Pending
+fancy-alive-monitoring | 400 | Pending
+keygen-me-1 | 400 | Pending
+store | 400 | Pending
+Super Safe RSA 2 | 425 | Pending
+Magic Padding Oracle | 450 | Pending
+buffer overflow 3 | 450 | Pending
+Secure Logon | 500 | Pending
+echo back | 500 | Pending
+script me | 500 | Pending
+LoadSomeBits | 550 | Pending
+are you root? | 550 | Pending
+assembly-4 | 550 | Pending
+gps | 550 | Pending
+Flaskcards Skeleton Key | 600 | Pending
+Help Me Reset 2 | 600 | Pending
+Super Safe RSA 3 | 600 | Pending
+special-pw | 600 | Pending
+A Simple Question | 650 | Pending
+can-you-gets-me | 650 | Pending
+James Brahm Returns | 700 | Pending
+freecalc | 750 | Unsolved
+keygen-me-2 | 750 | Pending
+LambDash 3 | 800 | Unsolved
+circuit123 | 800 | Pending
+sword | 800 | Pending
+Contacts | 850 | Unsolved
+Cake | 900 | Unsolved
+Dog or Frog | 900 | Pending
+Flaskcards and Freedom | 900 | Pending
+
 
