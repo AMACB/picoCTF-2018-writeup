@@ -18,7 +18,7 @@ In this case, we will write the flag as such:
 ## Problem List
 
 Name | Points | Status
---- | --- | ---
+--- | :---: | :---:
 [Forensics Warmup 1](problems/forensics-warmup-1/forensics-warmup-1.md) | 50 | Complete
 Forensics Warmup 2 | 50 | Pending
 General Warmup 1 | 50 | Pending
