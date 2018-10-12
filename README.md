@@ -20,7 +20,7 @@ In this case, we will write the flag as such:
 Name | Points | Status
 --- | :---: | :---:
 [Forensics Warmup 1](problems/forensics-warmup-1/forensics-warmup-1.md) | 50 | Complete
-Forensics Warmup 2 | 50 | Pending
+[Forensics Warmup 2](problems/forensics-warmup-2/forensics-warmup-2.md) | 50 | Complete
 General Warmup 1 | 50 | Pending
 General Warmup 2 | 50 | Pending
 General Warmup 3 | 50 | Pending
