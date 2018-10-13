@@ -24,7 +24,7 @@ Name | Points | Category | Status
 [General Warmup 1](problems/general-warmup-1/general-warmup-1.md) | 50 | General | Complete
 [General Warmup 2](problems/general-warmup-2/general-warmup-2.md) | 50 | General | Complete
 [General Warmup 3](problems/general-warmup-3/general-warmup-3.md) | 50 | General | Complete
-[Resources](problems/resources/resources.md) | 50 | Complete
+[Resources](problems/resources/resources.md) | 50 | General | Complete
 Reversing Warmup 1 | 50 | Reversing | Pending
 Reversing Warmup 2 | 50 | Reversing | Pending
 Crypto Warmup 1 | 75 | Cryptography | Pending
@@ -87,7 +87,7 @@ learn gdb | 300 | General | Pending
 Flaskcards | 350 | Web Exploitation | Pending
 Super Safe RSA | 350 | Cryptography | Pending
 authenticate | 350 | Binary Exploitation | Pending
-be-quick-or-be-dead-3 | 350 | Reversing | Pending
+[be-quick-or-be-dead-3](problems/be-quick-or-be-dead-3/be-quick-or-be-dead-3.md) | 350 | Reversing | Complete
 core | 350 |  Forensics | Pending
 got-shell? | 350 | Binary Exploitation | Pending
 quackme up | 350 | Reversing | Pending
