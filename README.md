@@ -116,7 +116,7 @@ Super Safe RSA 3 | 600 | Cryptography | Pending
 special-pw | 600 | Reversing | Pending
 A Simple Question | 650 | Web Exploitation | Pending
 can-you-gets-me | 650 | Binary Exploitation | Pending
-[James Brahm Returns](problems/james-brahm-returns/james-brahm-returns.md) | 700 | Cryptography | Pending
+[James Brahm Returns](problems/james-brahm-returns/james-brahm-returns.md) | 700 | Cryptography | Complete
 freecalc | 750 | Binary Exploitation | Unsolved
 keygen-me-2 | 750 | Reversing | Pending
 LambDash 3 | 800 | Web Exploitation | Unsolved

@@ -1,11 +1,11 @@
 # James Brahm Returns
 
-> Dr. Xernon has finally approved an update to James Brahm's spy terminal. (Someone finally told them that ECB isn't secure.) Fortunately, CBC mode is safe! Right? Connect with nc 2018shell1.picoctf.com 14263. Source.
+> Dr. Xernon has finally approved an update to James Brahm's spy terminal. (Someone finally told them that ECB isn't secure.) Fortunately, CBC mode is safe! Right? Connect with `nc 2018shellX.picoctf.com XXXXX`. Source.
 
 > Hint:  
 > Who killed SSL3?
 
-Before even starting the problem, connecting with ``nc 2018shell1.picoctf.com 14263`` and running a few trials is a good idea. Interestingly we get two inputs, and the ciphertext is pretty monstrously long for even very small inputs. After a few trials, we can see that changing, say, the last character or so causes the system to totally reject it. Not hugely surpising.
+Before even starting the problem, connecting with ``nc 2018shellX.picoctf.com XXXXX`` and running a few trials is a good idea. Interestingly we get two inputs, and the ciphertext is pretty monstrously long for even very small inputs. After a few trials, we can see that changing, say, the last character or so causes the system to totally reject it. Not hugely surpising.
 
 Now, it's useful to understand what is going on regarding the encryption of our messages simply because the ciphertext is a bit overwhelmingly long. Looking at the source code, the following few blocks are the ones that we care about.
 ```python
@@ -216,7 +216,7 @@ import time
 def test(index_of_flag):
 	while True:
 		try:
-			p = subprocess.Popen(["nc", "2018shell1.picoctf.com", "14263"], stdout=-1, stdin=-1, stderr=-1, bufsize=1)
+			p = subprocess.Popen(["nc", "2018shellX.picoctf.com", "XXXXX"], stdout=-1, stdin=-1, stderr=-1, bufsize=1)
 			p.stdout.readline() # Welcome, Agent 006!\n
 			p.stdout.readline() # Select an option:\n
 			p.stdout.readline() # Encrypt message (E)\n
