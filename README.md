@@ -124,5 +124,5 @@ circuit123 | 800 | Reversing | Pending
 sword | 800 | Binary Exploitation | Pending
 Contacts | 850 | Binary Exploitation | Unsolved
 Cake | 900 | Binary Exploitation | Unsolved
-Dog or Frog | 900 | General |  Pending
+[Dog or Frog](problems/dog-or-frog/dog-or-frog.md) | 900 | General |  Complete
 Flaskcards and Freedom | 900 | Web Exploitation | Pending
