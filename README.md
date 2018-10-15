@@ -120,7 +120,7 @@ can-you-gets-me | 650 | Binary Exploitation | Pending
 freecalc | 750 | Binary Exploitation | Unsolved
 keygen-me-2 | 750 | Reversing | Pending
 LambDash 3 | 800 | Web Exploitation | Unsolved
-circuit123 | 800 | Reversing | Pending
+[circuit123](problems/circuit123/circuit123.md) | 800 | Reversing | Complete
 sword | 800 | Binary Exploitation | Pending
 Contacts | 850 | Binary Exploitation | Unsolved
 Cake | 900 | Binary Exploitation | Unsolved
